@@ -6,5 +6,5 @@ Crafted with HTML, JavaScript, and CSS, utilizing DOM manipulation and Flexbox
 
 Enjoy!
 
-[The Odin Project](https://www.theodinproject.com/)
+[The Odin Project](https://www.theodinproject.com/) `<br>`
 [TOP : Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch)
